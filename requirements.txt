@@ -61,3 +61,4 @@ pinecone-client
 pinecone-text
 pinecone-notebooks
 phidata
+yt-dlp
